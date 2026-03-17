@@ -2,7 +2,7 @@
 
 ## Pasos a seguir 
 Antes de empezar con la clase tienes que tener en cuentas lo siguiente:
-- Clona primero este repositorio. Este repositorio será nuestro BACK
+- Clona primero este repositorio. Este repositorio será nuestro FRONT
 - Crea un archivo `.env`donde introducirás tu `PORT` y `MONGO_URI` 
 - Instala las dependencias
 - Levanta el servidor. Estará en [localhost:3000](http://localhost:3000/). Si tienes otro servicio levantado en ese puerto cámbialo.
